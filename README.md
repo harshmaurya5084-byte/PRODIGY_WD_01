@@ -176,15 +176,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Harsh Maurya
 
-Project Link: [https://github.com/yourusername/technova-landing-page](https://github.com/yourusername/technova-landing-page)
+Project Link: https://github.com/harshmaurya5084-byte/PRODIGY_WD_01.git
 
-## 🔗 Live Demo
+## 🔗 Live Demo: https://harshmaurya5084-byte.github.io/PRODIGY_WD_01/
 
-[View Live Demo](https://yourusername.github.io/technova-landing-page/)
-
----
 
 ⭐ If you like this project, please give it a star on GitHub!
 
